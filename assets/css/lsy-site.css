@@ -1,0 +1,75 @@
+.flex-container{
+            display:flex;
+						justify-content: center;
+            margin-bottom: 20px;
+        }
+.flex-item{
+            align-items: flex-end;
+            margin: 5px;
+        }
+
+
+.app_sw
+{
+  background-image: url(../../res/sw.png);
+
+}
+
+/*lsy 4 下拉菜单项:背景样式 */
+.lsylistitem
+{
+  border:solid 1px rgba(020, 050, 080, 255);
+  border-radius: 5px;
+  background-color: #10172c;
+}
+
+
+.lsyasset-title-town {
+  position: relative;
+  height: 400px;
+  padding-top: 170px;
+  padding-bottom: 100px;
+  background-image: url(../../res/town/1.jpg);
+  opacity: 0.85;
+  text-align: center;
+}
+
+.lsyasset-title-sw {
+  position: relative;
+  height: 400px;
+  padding-top: 170px;
+  padding-bottom: 100px;
+  background-image: url(../../res/bg-2.jpg);
+  opacity: 0.85;
+  text-align: center;
+}
+
+
+.lsyasset-title-pep {
+  position: relative;
+  height: 400px;
+  padding-top: 170px;
+  padding-bottom: 100px;
+
+  opacity: 0.85;
+  text-align: center;
+}
+
+.lsytitle {
+  margin-bottom: 0;
+  font-size: 32px;
+  font-weight: 700;
+  color: #333;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.lsypage {
+  padding:0px 200px 0px 200px;
+}
+
+.lsy-section-default {
+	position: relative;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
