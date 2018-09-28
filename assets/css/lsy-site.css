@@ -65,7 +65,9 @@
 }
 
 .lsypage {
-  padding:0px 200px 0px 200px;
+  width: 700px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .lsy-section-default {
